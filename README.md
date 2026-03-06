@@ -6,7 +6,6 @@ This is a public and available template. You can use it as a customizable model.
 
 This project is carried out as part of the "Mastering Front-End" training.
 Elegant and refined, this website allows you to launch your brand or promote your products or services with a simple design.
-You can visit it via the following link: https://lumease.github.io/run/.
 
 ## Editing and Publishing the Template
 
@@ -52,7 +51,7 @@ Then:
 
 ## Author
 
-Lumease - 2025.
+Lumease - 2026.
 
 ---
 
@@ -64,7 +63,6 @@ Il s'agit d'un modèle public et disponible. Vous pouvez vous en servir pour bé
 
 Ce projet est effectué dans le cadre de la formation "Mastering Front-End".
 Elégant et fin, ce site peut vous permettre de de lancer votre marque ou promouvoir vos biens ou services dans un design simple.
-Vous pouvez le visiter via le lien suivant : https://lumease.github.io/run/.
 
 ## Modifications et publication du modèle
 
@@ -110,4 +108,4 @@ Puis :
 
 ## Auteur
 
-Lumease - 2025.
+Lumease - 2026.
